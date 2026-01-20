@@ -21,4 +21,4 @@ A password generator written in **Bash** that allows users to create secure pass
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bash-password-generator.git
+   git clone https://github.com/DavidLpzRz/Password_generator.git
